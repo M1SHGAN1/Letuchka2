@@ -1,0 +1,14 @@
+C:\Users\Smuzi\OneDrive\Рабочий стол\mishgan\Letuchka2\MISHGANLABA1\MISHGANLABA1\bin\Debug\netcoreapp3.1\MISHGANLABA1.exe
+C:\Users\Smuzi\OneDrive\Рабочий стол\mishgan\Letuchka2\MISHGANLABA1\MISHGANLABA1\bin\Debug\netcoreapp3.1\MISHGANLABA1.deps.json
+C:\Users\Smuzi\OneDrive\Рабочий стол\mishgan\Letuchka2\MISHGANLABA1\MISHGANLABA1\bin\Debug\netcoreapp3.1\MISHGANLABA1.runtimeconfig.json
+C:\Users\Smuzi\OneDrive\Рабочий стол\mishgan\Letuchka2\MISHGANLABA1\MISHGANLABA1\bin\Debug\netcoreapp3.1\MISHGANLABA1.runtimeconfig.dev.json
+C:\Users\Smuzi\OneDrive\Рабочий стол\mishgan\Letuchka2\MISHGANLABA1\MISHGANLABA1\bin\Debug\netcoreapp3.1\MISHGANLABA1.dll
+C:\Users\Smuzi\OneDrive\Рабочий стол\mishgan\Letuchka2\MISHGANLABA1\MISHGANLABA1\bin\Debug\netcoreapp3.1\MISHGANLABA1.pdb
+C:\Users\Smuzi\OneDrive\Рабочий стол\mishgan\Letuchka2\MISHGANLABA1\MISHGANLABA1\obj\Debug\netcoreapp3.1\MISHGANLABA1.csproj.AssemblyReference.cache
+C:\Users\Smuzi\OneDrive\Рабочий стол\mishgan\Letuchka2\MISHGANLABA1\MISHGANLABA1\obj\Debug\netcoreapp3.1\MISHGANLABA1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smuzi\OneDrive\Рабочий стол\mishgan\Letuchka2\MISHGANLABA1\MISHGANLABA1\obj\Debug\netcoreapp3.1\MISHGANLABA1.AssemblyInfoInputs.cache
+C:\Users\Smuzi\OneDrive\Рабочий стол\mishgan\Letuchka2\MISHGANLABA1\MISHGANLABA1\obj\Debug\netcoreapp3.1\MISHGANLABA1.AssemblyInfo.cs
+C:\Users\Smuzi\OneDrive\Рабочий стол\mishgan\Letuchka2\MISHGANLABA1\MISHGANLABA1\obj\Debug\netcoreapp3.1\MISHGANLABA1.csproj.CoreCompileInputs.cache
+C:\Users\Smuzi\OneDrive\Рабочий стол\mishgan\Letuchka2\MISHGANLABA1\MISHGANLABA1\obj\Debug\netcoreapp3.1\MISHGANLABA1.dll
+C:\Users\Smuzi\OneDrive\Рабочий стол\mishgan\Letuchka2\MISHGANLABA1\MISHGANLABA1\obj\Debug\netcoreapp3.1\MISHGANLABA1.pdb
+C:\Users\Smuzi\OneDrive\Рабочий стол\mishgan\Letuchka2\MISHGANLABA1\MISHGANLABA1\obj\Debug\netcoreapp3.1\MISHGANLABA1.genruntimeconfig.cache
